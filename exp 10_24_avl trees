@@ -152,25 +152,25 @@ OUTPUT:-
 2. Inorder Traversal
 3. Exit
 Enter choice: 1
-Enter value to insert: 7
+Enter value to insert: 24
 
 --- AVL Tree Menu ---
 1. Insert
 2. Inorder Traversal
 3. Exit
 Enter choice: 1
-Enter value to insert: 14
+Enter value to insert: 48
 
 --- AVL Tree Menu ---
 1. Insert
 2. Inorder Traversal
 3. Exit
 Enter choice: 1
-Enter value to insert: 21
+Enter value to insert: 72
 
 --- AVL Tree Menu ---
 1. Insert
 2. Inorder Traversal
 3. Exit
 Enter choice: 2
-Inorder Traversal: 7 14 21 
+Inorder Traversal: 24 48 72 
