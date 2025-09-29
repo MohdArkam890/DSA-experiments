@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Mohd Arkam Kazi
+D10C 24
 Experiment 9
 Aim:-Implementation of Binary Search Tree.
 
@@ -168,7 +168,6 @@ int main() {
     return 0;
 }
 
-OUTPUT:-
 --- Binary Search Tree Menu ---
 1. Insert
 2. Delete
@@ -178,7 +177,7 @@ OUTPUT:-
 6. Postorder Traversal
 7. Exit
 Enter choice: 1
-Enter value to insert: 7
+Enter value to insert: 24
 
 --- Binary Search Tree Menu ---
 1. Insert
@@ -189,7 +188,7 @@ Enter value to insert: 7
 6. Postorder Traversal
 7. Exit
 Enter choice: 1
-Enter value to insert: 14
+Enter value to insert: 48
 
 --- Binary Search Tree Menu ---
 1. Insert
@@ -200,4 +199,14 @@ Enter value to insert: 14
 6. Postorder Traversal
 7. Exit
 Enter choice: 4
-Inorder: 7 14 
+Inorder: 24 48
+
+--- Binary Search Tree Menu ---
+1. Insert
+2. Delete
+3. Search
+4. Inorder Traversal
+5. Preorder Traversal
+6. Postorder Traversal
+7. Exit
+Enter choice: 7
