@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Mohd Arkam Kazi
+D10C 24
 Experiment 1 
 Aim:-Implementation of Stack Data Structure using array.
 
@@ -93,7 +93,7 @@ int main() {
     return 0;
 }
 
-OUTPUT:-
+OUTPUT:-     
 
 --- Stack Menu ---
 1. Push
@@ -102,8 +102,8 @@ OUTPUT:-
 4. Display
 5. Exit
 Enter your choice: 1
-Enter value to push: 7
-7 pushed to stack
+Enter value to push: 24
+24 pushed to stack
 
 --- Stack Menu ---
 1. Push
@@ -112,8 +112,8 @@ Enter value to push: 7
 4. Display
 5. Exit
 Enter your choice: 1
-Enter value to push: 14
-14 pushed to stack
+Enter value to push: 48
+48 pushed to stack
 
 --- Stack Menu ---
 1. Push
@@ -122,7 +122,7 @@ Enter value to push: 14
 4. Display
 5. Exit
 Enter your choice: 4
-Stack elements: 14 7 
+Stack elements: 48 24
 
 --- Stack Menu ---
 1. Push
@@ -132,3 +132,4 @@ Stack elements: 14 7
 5. Exit
 Enter your choice: 5
 Exiting...
+
