@@ -1,5 +1,5 @@
-        Rishi Dembla
-        D10C 07
+        Mohd Arkam Kazi
+        D10C 24
         Experiment 4
         Aim:-Implementation of Circular Queue Data Structure using array.
     
@@ -94,37 +94,38 @@
                 }
             }
         }
-        OUTPUT:-
-        --- Circular Queue Menu ---
-        1. Enqueue
-        2. Dequeue
-        3. Display
-        4. Exit
-        Enter your choice: 1
-        Enter value to enqueue: 7
-        7 inserted into the queue.
-        
-        --- Circular Queue Menu ---
-        1. Enqueue
-        2. Dequeue
-        3. Display
-        4. Exit
-        Enter your choice: 1
-        Enter value to enqueue: 14
-        14 inserted into the queue.
-        
-        --- Circular Queue Menu ---
-        1. Enqueue
-        2. Dequeue
-        3. Display
-        4. Exit
-        Enter your choice: 2
-        7 removed from the queue.
-        
-        --- Circular Queue Menu ---
-        1. Enqueue
-        2. Dequeue
-        3. Display
-        4. Exit
-        Enter your choice: 3
-        Queue elements: 14 
+OUTPUT
+     --- Circular Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 24
+24 inserted into the queue.
+
+--- Circular Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 48
+48 inserted into the queue.
+
+--- Circular Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 24 48
+
+--- Circular Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 4
+Exiting program.
+PS C:\Users\Mohd Arkam Kazi\Desktop\ArkamC>
