@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Mohd Arkam Kazi
+D10C 24
 Experiment 2
 Aim:-Conversion of Infix Expression to Postfix Expression Using Stack.
 
@@ -69,5 +69,5 @@ int main() {
     return 0;
 }
 OUTPUT:-
-Enter Infix Expression: (A+B)*(C-D)
-Postfix Expression: AB+CD-*
+Enter Infix Expression: (A-B)*(C+D)
+Postfix Expression: AB-CD+*
