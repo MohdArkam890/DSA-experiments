@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Mohd Arkam Kazi
+D10C 24
 Experiment 6
 Aim:-Linked List implementation of Stack/queue in real life application.
 
@@ -109,8 +109,8 @@ OUTPUT:-
 4. Show Playlist History (Display)
 5. Exit
 Enter choice: 1
-Enter song name: alan walker
-Now playing: alan walker
+Enter song name: night changes
+Now playing: night changes
 
 --- Music Player Menu ---
 1. Play New Song (Push)
@@ -130,4 +130,4 @@ Now playing: neffex
 5. Exit
 Enter choice: 2
 Stopping: neffex
-Now playing: alan walker
+Now playing: night changes
