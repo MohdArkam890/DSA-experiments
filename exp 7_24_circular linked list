@@ -1,5 +1,5 @@
-Rishi Dembla
-D10C 07
+Mohd Arkam Kazi
+D10C 24
 Experiment 7 
 Aim:-Implementation of Circular Singly Linked List.
 
@@ -153,7 +153,7 @@ OUTPUT:-
 4. Display
 5. Exit
 Enter choice: 1
-Enter value: 7
+Enter value: 24
 
 --- Circular Singly Linked List Menu ---
 1. Insert at Beginning
@@ -162,7 +162,7 @@ Enter value: 7
 4. Display
 5. Exit
 Enter choice: 2
-Enter value: 14
+Enter value: 48
 
 --- Circular Singly Linked List Menu ---
 1. Insert at Beginning
@@ -171,4 +171,12 @@ Enter value: 14
 4. Display
 5. Exit
 Enter choice: 4
-Circular Linked List: 7 -> 14 -> (back to head)
+Circular Linked List: 24 -> 48 -> (back to head)
+
+--- Circular Singly Linked List Menu ---
+1. Insert at Beginning
+2. Insert at End
+3. Delete a Node
+4. Display
+5. Exit
+Enter choice: 5
