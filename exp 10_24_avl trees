@@ -173,4 +173,10 @@ Enter value to insert: 72
 2. Inorder Traversal
 3. Exit
 Enter choice: 2
-Inorder Traversal: 24 48 72 
+Inorder Traversal: 24 48 72
+
+--- AVL Tree Menu ---
+1. Insert
+2. Inorder Traversal
+3. Exit
+Enter choice: 3
